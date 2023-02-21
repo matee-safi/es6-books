@@ -1,4 +1,4 @@
-import { DateTime } from './datetime.js';
+import { DateTime } from './luxon.min.js';
 
 const time = document.querySelector('.time');
 
